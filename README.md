@@ -1,5 +1,5 @@
 
-## About Laravel
+## Cara instalasi
 
 <ul> 
     <li>install menggunakan via composer</li>
