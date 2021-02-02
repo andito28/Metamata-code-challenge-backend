@@ -1,11 +1,13 @@
 
-## Cara instalasi
-install menggunakan via composer
-masuk ke CMD
-buka direktori dimana project akan di install
-ketikkan composer create-project laravel/laravel chalenge
-tunggu hingga proses penginstalan selesai
-jalankan XAMPP/web server
-ketik php artisan serve pada direktori tempat penginstalan sebelumnya
-buka browser ketikkan localhost::8000
+## About Laravel
 
+<ul> 
+    <li>install menggunakan via composer</li>
+    <li>masuk ke CMD </li>
+    <li>buka direktori dimana project akan di install </li>
+    <li>ketikkan composer create-project laravel/laravel chalenge </li>
+    <li>tunggu hingga proses penginstalan selesai </li>
+    <li>jalankan XAMPP/web server </li>
+    <li> ketik php artisan serve pada direktori tempat penginstalan sebelumnya</li>
+    <li>buka browser ketikkan localhost::8000 </li>
+</ul>
